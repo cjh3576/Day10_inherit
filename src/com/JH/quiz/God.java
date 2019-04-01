@@ -11,6 +11,7 @@ public class God {
 		
 	public static  God get() {
 		
+		
 		return god;
 	}
 		
